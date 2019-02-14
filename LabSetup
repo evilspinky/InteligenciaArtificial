@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 #                                                 ----- Windows -----
 #En python3.exe instalar pip,tk y agregar variables de entorno
 #                                                 ------ Linux ------
