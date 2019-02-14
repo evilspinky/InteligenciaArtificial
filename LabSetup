@@ -1,8 +1,10 @@
 #!/usr/bin/bash
 #                                                 ----- Windows -----
 #En python3.exe instalar pip,tk y agregar variables de entorno
-pip install jupyter
+pip install --upgrade pip
+pip install numpy opencv-python jupyter
 jupyter notebook
 #                                                 ------ Linux ------
 sudo apt-get install python3 python3-pip python3-tk
-python3 -m pip install jupyter
+python3 -m pip install numpy opencv-python jupyter
+#?jupyter notebook
